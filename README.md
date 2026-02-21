@@ -14,7 +14,7 @@ Code Analysis: ast (Abstract Syntax Tree)
 Visualization: matplotlib
 **Installation Instructions:**
 clone the repository
-git clone https://github.com/brachi0525/PythonFinallProject.git
+git clone https://github.com/brachi0525/Automated-Code-Analysis-System.git
 cd PythonFinallProject
  Create a virtual environment & install dependencies
  python -m venv venv
